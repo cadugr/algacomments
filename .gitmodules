@@ -1,0 +1,6 @@
+[submodule "comment-service"]
+	path = comment-service
+	url = git@github.com:cadugr/comment-service.git
+[submodule "moderation-service"]
+	path = moderation-service
+	url = git@github.com:cadugr/moderation-service.git
