@@ -21,3 +21,9 @@ Cada microsserviço possui seu próprio repositório com código-fonte, instruç
 Este projeto foi desenvolvido por Carlos Eduardo Guerra Resende como parte de um desafio proposto no curso **Especialista Spring REST e Microsserviços** da [Algaworks](https://algaworks.com). Ele representa a aplicação prática dos conhecimentos adquiridos no Nível 1 do curso sobre arquitetura de microsserviços, comunicação síncrona e boas práticas com Spring Boot.
 
 ---
+Para baixar o projeto e os seus submódulos os quais são os projetos dos microsserviços comment-service e moderation-service, basta escolher um diretório de sua preferência em seu computador e via terminal/power shell, executar o comando a seguir:
+
+```Bash
+git clone --recurse-submodule -j8 git@github.com:cadugr/algacomments.git
+```
+---
